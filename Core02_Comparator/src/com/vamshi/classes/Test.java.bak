@@ -6,6 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Test {
+	//this is comparator example
 
 	public static void main(String[] args) {
 		List<Laptop> l=new ArrayList<>();

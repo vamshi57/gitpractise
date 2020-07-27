@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Test {
 	//this is comparator example
-
+   //this a new branch of name branch1
 	public static void main(String[] args) {
 		List<Laptop> l=new ArrayList<>();
 		l.add(new Laptop("dell",50000 ));
